@@ -28,6 +28,7 @@ INSTALLED_APPS = [
     'django.contrib.admindocs',
     
     'authapp',
+    'blog',
 ]
 
 MIDDLEWARE = [
